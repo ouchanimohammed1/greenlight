@@ -194,7 +194,7 @@ fr:
       contact_admin: "Si vous n’êtes pas un administrateur, veuillez en contacter un."
       continue: Je veux rester sur la 1.0.
       notice: >
-        Greenlight a rencontré une erreur de migration de base de données.<br> C'est peut-être parce que vous n'avez pas mis à jour Greenlight 2.0.
+        MyVCR a rencontré une erreur de migration de base de données.<br> C'est peut-être parce que vous n'avez pas mis à jour MyVCR 2.0.
       upgrade: Montrez-moi comment passer à la version 2.0 !
       version: "Nous avons publié une nouvelle version de My Virtual ClassRoom, mais votre base de données n'est pas compatible."
     messages:

@@ -194,8 +194,8 @@ en:
       contact_admin: If you are not an administrator, please contact one.
       continue: I'd like to stay using 1.0.
       notice: >
-        Greenlight encountered a database migration error.<br>
-        This may be because you haven't updated to Greenlight 2.0.
+        MyVCR encountered a database migration error.<br>
+        This may be because you haven't updated to MyVCR 2.0.
       upgrade: Show me how to upgrade to 2.0!
       version: We've released a new version of My Virtual ClassRoom, but your database isn't compatible.
     messages:

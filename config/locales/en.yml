@@ -260,7 +260,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} (My Virtual ClassRoom) is a simple front-end for your My Virtual ClassRoom open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "%{href} MyVCR (My Virtual ClassRoom) is a web conferencing service for your My Virtual ClassRoom web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
     welcome: Welcome to My Virtual ClassRoom.
     video: Watch our tutorial on using My Virtual ClassRoom
     upgrade: Show me how to upgrade to 2.0!
